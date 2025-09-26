@@ -7,14 +7,14 @@ This project involves analyzing an sales review dataset using **SQL**.
 ## Dataset
 The dataset used is a cleaned e-commerce product dataset with the following columns:
 
-- `product_id` – Unique identifier for each product  
-- `product_name` – Name of the product  
-- `CATEGORY` – Product category  
-- `discounted_price` – Current discounted price  
-- `actual_price` – Original price  
-- `discount_percentage` – Discount applied  
-- `rating` – Product rating  
-- `rating_count` – Number of reviews  
+- `product_id` 
+- `product_name`
+- `CATEGORY`
+- `discounted_price`
+- `actual_price`
+- `discount_percentage`
+- `rating`  
+- `rating_count`
 
 Total records: **266 rows**  
 
