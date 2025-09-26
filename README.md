@@ -22,9 +22,6 @@ Total records: **266 rows**
 - **SQL Server / MySQL**  
 - SQL queries for data extraction and analysis  
 
-## Queries Output
-
-
 ## Insights from Analysis
 - Certain categories have higher average discounts than others.  
 - Top products by discount can be identified quickly using ORDER BY and LIMIT.  
